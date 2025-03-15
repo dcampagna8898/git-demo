@@ -17,6 +17,9 @@
 - `git merge <branch-name>` - Merge a branch into the current branch
 - `git checkout -d <branch-name>` - Delete a branch
 
+## Git Tags
+- `git tag -av <tag-name>` - Create a tag
+
 ## Git Loop
 * Git Add
 * Git Commit
